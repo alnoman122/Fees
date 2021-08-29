@@ -1,0 +1,51 @@
+h2{
+    text-align: center;
+    background-color: blue;
+    color: cornsilk;
+
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+
+td {
+    border: 2px solid black;
+
+}
+h3{
+    color: crimson;
+}
+h3.italic{
+font-style: italic;
+color: blue;
+}
+p.colour{
+    color: darkblue;
+    font-size: large;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  tr, td {
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even){background-color: #000701}
+  
+  tr {
+    background-color: #04AA6D;
+    color: rgb(247, 248, 247);
+  }
+  tr.table-color{
+      background-color: blue;
+      color: rgb(255, 254, 254);
+  }
+  p{
+      font-size: large;
+  }
